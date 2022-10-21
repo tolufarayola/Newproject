@@ -1,2 +1,2 @@
-# songcrud
-My First Django Project
+# Newprj
+My First Django Task
